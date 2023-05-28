@@ -1,0 +1,44 @@
+body {
+  background-color: #000000;
+  color: #ffffff;
+  font-family: Arial, sans-serif;
+}
+
+h1 {
+  font-size: 28px;
+}
+
+p {
+  font-size: 18px;
+  line-height: 1.5;
+}
+
+form {
+  margin-bottom: 20px;
+}
+
+input[type="date"] {
+  padding: 10px;
+  font-size: 16px;
+}
+
+button {
+  padding: 10px 20px;
+  font-size: 16px;
+  background-color: #ffffff;
+  color: #000000;
+  border: none;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #cccccc;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+  margin-bottom: 20px;
+  border-radius: 5px;
+  box-shadow: 0 0 10px rgba(255, 255, 255, 0.5);
+}
